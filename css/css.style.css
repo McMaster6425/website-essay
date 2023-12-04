@@ -6,7 +6,7 @@ body {
 
 h1{ 
     text-align: left;
-    margin-left: 25rem;
+    margin-left: 20rem;
 }
 #Howdid {
     text-align: left;
@@ -36,4 +36,41 @@ h1{
     color: aqua;
     text-align: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.imageheader {
+    background: url(../images/apple-logo-two.png) no-repeat;
+    margin-right: 10vw;
+    margin-left: 10vw;
+    width: 50vw;
+}
+
+li, #navigation {
+    display: inline-block;
+    font-size: large;
+    align-content: stretch;
+    margin-left: 7rem;     
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+#iphone {
+    font-size: large;
+    display: list-item;
+    margin-left: 1rem;
+}
+
+#ipod {
+    font-size: large;
+    display: list-item;
+    margin-left: 1rem;
+}
+
+#macbook {
+    font-size: large;
+    display: list-item;
+    margin-left: 1rem;
 }
