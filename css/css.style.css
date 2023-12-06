@@ -7,8 +7,9 @@ body {
 h1{ 
     text-align: left;
     margin-left: 1rem;
-    font-size: 3rem;
+    font-size: 4rem;
     font-family: 'Libre Caslon Text', serif;
+    line-height: 3.5rem;
 }
 #Howdid {
     text-align: left;
@@ -17,9 +18,10 @@ h1{
 }
 
 #JonyIves {
-    color: blue;
+    color: #00C2FF;
     text-align: left;
     font-family: 'Libre Caslon Text', serif;
+    position: relative;
 }
 
 #Thefieldof {
@@ -29,22 +31,22 @@ h1{
 }
 
 #Industrial {
-    color: blue;
+    color: #00C2FF;
     text-align: left;
     font-family: 'Libre Caslon Text', serif;
 }
 
 #Design {
-    color: blue;
+    color: #00C2FF;
     text-align: left;
     font-family: 'Libre Caslon Text', serif;
 }
 
 .imageheader {
-    background: url(../images/apple-logo-5.png) no-repeat;
+    background: url(../images/apple-logo-nine.png) no-repeat;
     margin-left: 8.5rem;
     width: 400vw;
-    background-position: 25rem;
+    background-position: 30rem;
 }
 
 li, #navigation {
@@ -89,6 +91,7 @@ a:link {
 h2 {
     text-align: left;
     margin-left: 10rem;
+    font-size: 2rem;
 }
 
 p {
@@ -96,3 +99,7 @@ p {
     margin-right: 20rem;
 }
 
+#thinnest {
+    margin-left: 10rem;
+    margin-right: 20rem;
+}
