@@ -195,6 +195,36 @@
     border: 0 none;
 }
 
+#hr12 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    top: 50.3rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr13 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    top: 43.7rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
 body {
     background-color: black;
     color: white;
