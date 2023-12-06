@@ -41,16 +41,17 @@ h1{
 }
 
 .imageheader {
-    background: url(../images/apple-logo-two.png) no-repeat;
+    background: url(../images/apple-logo-5.png) no-repeat;
     margin-left: 8.5rem;
-    width: 300vw;
+    width: 400vw;
+    background-position: 25rem;
 }
 
 li, #navigation {
     display: inline-block;
     font-size: large;
     align-content: stretch;
-    margin-left: 7rem;     
+    margin-left: 5rem;     
 }
 
 a:link {
@@ -59,28 +60,30 @@ a:link {
 }
 
 #iphone {
-    font-size: large;
+    font-size: medium;
     display: list-item;
-    margin-left: 10rem;
+    margin-left: 9rem;
+    margin-right: 20rem;
 }
 
 #ipod {
-    font-size: large;
+    font-size: medium;
     display: list-item;
-    margin-left: 10rem;
+    margin-left: 9rem;
+    margin-right: 20rem;
 }
 
 #macbook {
-    font-size: large;
+    font-size: medium;
     display: list-item;
-    margin-left: 10rem;
+    margin-left: 9rem;
+    margin-right: 20rem;
 }
 
 
 #jonyiveintro {
-    width: 80vw;
     margin-left: 10rem;
-    margin-right: 10rem;
+    margin-right: 20rem;
 }
 
 h2 {
@@ -90,14 +93,6 @@ h2 {
 
 p {
     margin-left: 10rem;
-    margin-right: 10rem;
+    margin-right: 20rem;
 }
 
-.imageheader {
-    width: 300vw;
-    background-position: 10rem;
-}
-
-img,#apple-logo {
-    width: 20rem;
-}
