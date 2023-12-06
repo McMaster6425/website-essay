@@ -44,10 +44,8 @@ h1{
 }
 
 .imageheader {
-    background: url(../images/apple-logo-nine.png) no-repeat;
+    background: url(../images/apple-logo.png) no-repeat;
     margin-left: 8.5rem;
-    width: 400vw;
-    background-position: 30rem;
 }
 
 li, #navigation {
@@ -92,13 +90,13 @@ a:link {
 
 h2 {
     text-align: left;
-    margin-left: 10rem;
+    margin-left: 18rem;
     font-size: 3rem;
     text-decoration: underline #00C2FF;
 }
 
 p {
-    margin-left: 10rem;
+    margin-left: 18rem;
     margin-right: 20rem;
     font-size: 1rem;
     line-height: 2rem;
@@ -152,4 +150,10 @@ p {
     width: 50vw;
     margin-right: 20rem;
     margin-top: 10rem;
+}
+
+.conclusionsection {
+    background-color: white;
+    color: black;
+    line-height: 4rem;
 }
