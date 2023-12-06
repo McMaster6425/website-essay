@@ -93,7 +93,7 @@ a:link {
 h2 {
     text-align: left;
     margin-left: 10rem;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 p {
@@ -105,9 +105,10 @@ p {
 
 #thinnest {
     margin-left: 10rem;
-    margin-right: 18rem;
-    font-size: 3rem;
-    line-height: 5rem;
+    margin-right: 20rem;
+    font-size: 2rem;
+    line-height: 3rem;
+    text-align-last: center;
 }
 
 #men {
@@ -116,8 +117,8 @@ p {
 
 #techworld {
     margin-left: 10rem;
-    font-size: 4.5rem;
-    margin-right: 18rem;
+    font-size: 3.5rem;
+    margin-right: 32rem;
     line-height: 6rem;
 }
 
