@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
 }
 
 h1{ 
@@ -62,21 +63,21 @@ a:link {
 }
 
 #iphone {
-    font-size: medium;
+    font-size: 1rem;
     display: list-item;
     margin-left: 9rem;
     margin-right: 20rem;
 }
 
 #ipod {
-    font-size: medium;
+    font-size: 1rem;
     display: list-item;
     margin-left: 9rem;
     margin-right: 20rem;
 }
 
 #macbook {
-    font-size: medium;
+    font-size: 1rem;
     display: list-item;
     margin-left: 9rem;
     margin-right: 20rem;
@@ -86,6 +87,7 @@ a:link {
 #jonyiveintro {
     margin-left: 10rem;
     margin-right: 20rem;
+    line-height: 2rem;
 }
 
 h2 {
@@ -97,9 +99,29 @@ h2 {
 p {
     margin-left: 10rem;
     margin-right: 20rem;
+    font-size: 1rem;
+    line-height: 2rem;
 }
 
 #thinnest {
     margin-left: 10rem;
-    margin-right: 20rem;
+    margin-right: 18rem;
+    font-size: 3rem;
+    line-height: 5rem;
 }
+
+#men {
+    margin-left: 10rem;
+}
+
+#techworld {
+    margin-left: 10rem;
+    font-size: 4.5rem;
+    margin-right: 18rem;
+    line-height: 6rem;
+}
+
+#jonyivephoto {
+    margin-left: 10rem;
+}
+
