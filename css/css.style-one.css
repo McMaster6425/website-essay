@@ -50,7 +50,7 @@
     rotate: 270deg;
     width: 180vw;
     max-width: 1600px;
-    left: -44.8rem;
+    left: -44rem;
     transform: translateX(-64.3rem);
     position: relative;
     margin-right: 10rem;
@@ -60,19 +60,6 @@
     border: 0 none;
 }
 
-#hr21 {
-    rotate: 270deg;
-    width: 180vw;
-    max-width: 1600px;
-    left: -44.8rem;
-    transform: translateX(-69rem);
-    position: relative;
-    margin-right: 10rem;
-    height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
-    border: 0 none;
-}
 
 #hr3 {
     rotate: 270deg;
@@ -95,7 +82,7 @@
     max-width: 1460px;
     position: relative;
     left: -39rem;
-    bottom: -177rem;
+    bottom: -170rem;
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
@@ -232,6 +219,20 @@
     left: -39rem;
     top: 50.3rem;
     transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr14 {
+    rotate: 270deg;
+    width: 180vw;
+    max-width: 1600px;
+    left: -44rem;
+    transform: translateX(-100rem);
+    position: relative;
     margin-right: 10rem;
     height: 4px;
     color: #0000FF;
