@@ -1,0 +1,462 @@
+.whoisjony {
+    rotate: 270deg;
+    margin-left: -70rem;
+    position: relative;
+    transform:translate(31rem);
+}
+
+.industrialdesigntitle{
+    rotate: 270deg;
+    margin-left: -70rem;
+    position: relative;
+    transform: translate(14.2rem);
+    color: black;
+}
+
+.styleofdesigntitle {
+    rotate: 270deg;
+    margin-left: -70rem;
+    position: relative;
+    transform: translate(34.5rem);
+    color: black;
+}
+
+.revolutionarytitle {
+    rotate: 270deg;
+    margin-left: -70rem;
+    position: relative;
+    transform: translate(24rem);
+}
+
+.conclusiontitle {
+    rotate: 270deg;
+    margin-left: -70rem;
+    position: relative;
+    transform: translate(40rem);
+}
+
+#hr1 {
+    width: 100vw;
+    max-width: 1500px;
+    margin-left: -9rem;
+    transform: translateY(15rem);
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr2 {
+    rotate: 270deg;
+    width: 180vw;
+    max-width: 1600px;
+    left: -44rem;
+    transform: translateX(-64.3rem);
+    position: relative;
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+
+#hr3 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    bottom: -70rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr33 {
+    rotate: 270deg;
+    width: 100vw;
+    max-width: 1460px;
+    position: relative;
+    left: -39rem;
+    bottom: -170rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr4 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    bottom: -155rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr5 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    bottom: -169.7rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr6 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    bottom: -52rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr7 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    bottom: 120rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr8 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    bottom: 44.5rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr9 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    top: 40rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr10 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    bottom: 80rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr11 {    
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    bottom: 43rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr12 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    top: 50.3rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr14 {
+    rotate: 270deg;
+    width: 180vw;
+    max-width: 1600px;
+    left: -44rem;
+    transform: translateX(-100rem);
+    position: relative;
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+#hr13 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -39rem;
+    top: 43.7rem;
+    transform: translateY(8.5rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #0000FF;
+    background-color: #0000FF;
+    border: 0 none;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
+}
+
+h1{ 
+    text-align: left;
+    margin-left: 1rem;
+    font-size: 5rem;
+    font-family: 'Libre Caslon Text', serif;
+    line-height: 4.5rem;
+    margin-bottom: 3rem;
+}
+#Howdid {
+    text-align: left;
+    color: white;
+    font-family: 'Libre Caslon Text', serif;
+}
+
+#JonyIves {
+    color: blue;
+    text-align: left;
+    font-family: 'Libre Caslon Text', serif;
+    position: relative;
+}
+
+#Thefieldof {
+    color: white;
+    text-align: left;
+    font-family: 'Libre Caslon Text', serif;
+}
+
+#Industrial {
+    color: blue;
+    text-align: left;
+    font-family: 'Libre Caslon Text', serif;
+}
+
+#Design {
+    color: blue;
+    text-align: left;
+    font-family: 'Libre Caslon Text', serif;
+}
+
+.imageheader {
+    background: url(../images/apple-logo-three.png) no-repeat;
+    margin-left: 8.5rem;
+    background-position: 425px;
+    background-position-y: -2px;
+    margin-bottom: 10rem;
+}
+
+li, #navigation {
+    display: inline-block;
+    font-size: large;
+    align-content: stretch;
+    margin-left: 5rem;     
+}
+
+a:visited {
+    color: white;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+#iphone {
+    font-size: 2rem;
+    display: list-item;
+    margin-left: 18rem;
+    margin-right: 20rem;
+    line-height: 5rem;
+}
+
+#ipod {
+    font-size: 2rem;
+    display: list-item;
+    margin-left: 18rem;
+    margin-right: 20rem;
+    line-height: 5rem;
+}
+
+#macbook {
+    font-size: 2rem;
+    display: list-item;
+    margin-left: 18rem;
+    margin-right: 20rem;
+    line-height: 5rem;
+}
+
+
+#jonyiveintro {
+    margin-left: 18rem;
+    margin-right: 20rem;
+    line-height: 5rem;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 18rem;
+    font-size: 3rem;
+}
+
+p {
+    margin-left: 18rem;
+    margin-right: 20rem;
+    font-size: 2rem;
+    line-height: 5rem;
+}
+
+#thinnest {
+    margin-left: 18rem;
+    margin-right: 20rem;
+    font-size: 2rem;
+    line-height: 3rem;
+    text-align-last: center;
+    background-color: white;
+    color: black;
+}
+
+#men {
+    margin-left: 18rem;
+}
+
+#techworld {
+    margin-left: 18rem;
+    font-size: 4rem;
+    margin-right: 20rem;
+    line-height: 4rem;
+    margin-bottom: -2rem;
+}
+
+#jonyivephoto {
+    margin-left: 18rem;
+    position: relative;
+    width: 50vw;
+    margin-bottom: -20rem;
+}
+
+.industrialdesignsection {
+    background-color: white;
+    color: black;
+    line-height: 5rem;
+    margin-top: 20rem;
+}
+
+.styleofdesignsection {
+    background-color: white;
+    color: black;
+    line-height: 4.5rem;
+}
+
+.jonyivesection {
+    line-height: 5rem;
+    margin-bottom: -9.59rem;
+    margin-top: 1rem;
+    border-left: blue;
+    border-width: thick;
+}
+
+.hr {
+    width: 50vw;
+    margin-right: 20rem;
+    margin-top: 10rem;
+}
+
+.conclusionsection {
+    background-color: black;
+    color: white;
+    line-height: 4rem;
+}
+
+.thinmac {
+    background-color: white;
+    color: black;
+}
+
+.references {
+    margin-left: 11rem;
+    margin-right: 25rem;
+    margin-top: 5rem;
+    color: black;
+    text-decoration-color: black;
+}
+
+.linktowork {
+    margin-left: 18rem;
+    text-decoration: none;
+    margin-top: 5rem;
+}
+
+
+.referencesection {
+    background-color: grey;
+    color: black;
+    line-height: 4rem;
+}
+
+.referencesection{
+    color: white;
+}
