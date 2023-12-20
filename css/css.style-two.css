@@ -9,7 +9,7 @@
     rotate: 270deg;
     margin-left: -70rem;
     position: relative;
-    transform: translate(14.2rem);
+    transform: translate(11rem);
     color: black;
 }
 
@@ -17,7 +17,7 @@
     rotate: 270deg;
     margin-left: -70rem;
     position: relative;
-    transform: translate(34.5rem);
+    transform: translate(31.5rem);
     color: black;
 }
 
@@ -25,24 +25,24 @@
     rotate: 270deg;
     margin-left: -70rem;
     position: relative;
-    transform: translate(24rem);
+    transform: translate(30rem);
 }
 
 .conclusiontitle {
     rotate: 270deg;
     margin-left: -70rem;
     position: relative;
-    transform: translate(40rem);
+    transform: translate(46rem);
 }
 
 #hr1 {
     width: 100vw;
     max-width: 1500px;
     margin-left: -9rem;
-    transform: translateY(15rem);
+    transform: translateY(9rem);
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -51,12 +51,12 @@
     width: 180vw;
     max-width: 1600px;
     left: -44rem;
-    transform: translateX(-64.3rem);
+    transform: translateX(-58.4rem);
     position: relative;
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -71,8 +71,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -86,8 +86,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -101,8 +101,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -116,8 +116,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -131,8 +131,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -146,8 +146,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -161,8 +161,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -176,8 +176,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -191,8 +191,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -206,8 +206,8 @@
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -217,12 +217,27 @@
     position: relative;
     max-width: 1460px;
     left: -39rem;
-    top: 50.3rem;
+    bottom: 120rem;
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
+    border: 0 none;
+}
+
+#hr17 {
+    rotate: 270deg;
+    width: 100vw;
+    position: relative;
+    max-width: 1460px;
+    left: -30.5rem;
+    bottom: 200rem;
+    transform: translate(10rem);
+    margin-right: 10rem;
+    height: 4px;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -235,8 +250,8 @@
     position: relative;
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -244,14 +259,14 @@
     rotate: 270deg;
     width: 100vw;
     position: relative;
-    max-width: 1460px;
-    left: -39rem;
-    top: 43.7rem;
+    max-width: 1000px;
+    left: -41.5rem;
+    top: -28.5rem;
     transform: translateY(8.5rem);
     margin-right: 10rem;
     height: 4px;
-    color: #0000FF;
-    background-color: #0000FF;
+    color: #00C2FF;
+    background-color: #00C2FF;
     border: 0 none;
 }
 
@@ -273,41 +288,44 @@ h1{
 #Howdid {
     text-align: left;
     color: white;
-    font-family: 'Libre Caslon Text', serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #JonyIves {
-    color: blue;
+    color: #00C2FF;
     text-align: left;
-    font-family: 'Libre Caslon Text', serif;
+    font-family: Arial, Helvetica, sans-serif;
     position: relative;
 }
 
 #Thefieldof {
     color: white;
     text-align: left;
-    font-family: 'Libre Caslon Text', serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #Industrial {
-    color: blue;
+    color: #00C2FF;
     text-align: left;
-    font-family: 'Libre Caslon Text', serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#Design {
-    color: blue;
+#Designtitle {
+    color: #00C2FF;
     text-align: left;
-    font-family: 'Libre Caslon Text', serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .imageheader {
-    background: url(../images/apple-logo-three.png) no-repeat;
+    background: url(../images/Saval-Jony-Ive-two.png) no-repeat;
     margin-left: 8.5rem;
-    background-position: 425px;
-    background-position-y: -2px;
-    margin-bottom: 10rem;
+    background-position: 600px;
+    background-position-y: -2rem;
+    margin-bottom: 4rem;
+    width: 100%;
 }
+
+
 
 li, #navigation {
     display: inline-block;
@@ -327,33 +345,33 @@ a:link {
 
 #iphone {
     font-size: 2rem;
-    display: list-item;
-    margin-left: 18rem;
+    margin-left: 1rem;
     margin-right: 20rem;
     line-height: 5rem;
+    transform: translateY(8.5rem);
 }
 
 #ipod {
     font-size: 2rem;
-    display: list-item;
-    margin-left: 18rem;
+    margin-left: 1rem;
     margin-right: 20rem;
     line-height: 5rem;
+    transform: translateY(8.5rem);
 }
 
 #macbook {
     font-size: 2rem;
-    display: list-item;
-    margin-left: 18rem;
+    margin-left: 1rem;
     margin-right: 20rem;
     line-height: 5rem;
+    transform: translateY(8.5rem);
 }
 
 
 #jonyiveintro {
     margin-left: 18rem;
-    margin-right: 20rem;
-    line-height: 5rem;
+    margin-right: 15rem;
+    line-height: 4rem;
 }
 
 h2 {
@@ -364,9 +382,11 @@ h2 {
 
 p {
     margin-left: 18rem;
-    margin-right: 20rem;
+    margin-right: 13rem;
     font-size: 2rem;
-    line-height: 5rem;
+    line-height: 4rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
 }
 
 #thinnest {
@@ -377,10 +397,15 @@ p {
     text-align-last: center;
     background-color: white;
     color: black;
+    margin-bottom: 2rem;
 }
 
 #men {
     margin-left: 18rem;
+}
+
+.blockquote1 {
+    margin-top: 3rem;
 }
 
 #techworld {
@@ -389,26 +414,79 @@ p {
     margin-right: 20rem;
     line-height: 4rem;
     margin-bottom: -2rem;
+    margin-top: -2rem;
 }
 
 #jonyivephoto {
     margin-left: 18rem;
     position: relative;
-    width: 50vw;
-    margin-bottom: -20rem;
+    width: 70vw;
+    margin-bottom: -17rem;
 }
 
 .industrialdesignsection {
     background-color: white;
     color: black;
-    line-height: 5rem;
     margin-top: 20rem;
+    margin-right: -8rem;
+    margin-bottom: 7rem;
+}
+
+#industriald1 {
+    transform: translateY(3.5rem);
+    color: black;
+}
+
+#jonyindustrial {
+    width: 70vw;
+    margin-left: 17.8rem;
+    margin-top: 2rem;
+    margin-bottom: -1rem;
 }
 
 .styleofdesignsection {
     background-color: white;
     color: black;
-    line-height: 4.5rem;
+    line-height: 4rem;
+}
+
+#bauhaus {
+    margin-left: 18rem;
+    width: 60vw;
+}
+
+#imacstyle {
+    margin-left: 18rem;
+    width: 60vw;
+}
+
+.revolutionarydesign {
+    margin-top: -7rem;
+}
+
+#apple-logo2 {
+    width: 80vw;
+    margin-bottom: -8rem;
+    margin-top: -2rem;
+}
+
+#ipodlaunch {
+    margin-left: 18rem;
+    width: 70vw;
+    margin-bottom: -8rem;
+    margin-top: -2rem;
+}
+
+#iphonebackground {
+    margin-left: 18rem;
+    width: 60vw;
+    margin-bottom: -8rem;
+    margin-top: -2rem;
+}
+
+#imacbackground {
+    margin-left: 18rem;
+    width: 70vw;
 }
 
 .jonyivesection {
@@ -429,11 +507,13 @@ p {
     background-color: black;
     color: white;
     line-height: 4rem;
+    margin-top: -7rem;
 }
 
 .thinmac {
     background-color: white;
     color: black;
+    margin-top: 2rem;
 }
 
 .references {
